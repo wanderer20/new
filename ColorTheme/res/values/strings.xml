@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ColorTheme</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="rand">#00FF00</color>
+    
+    <color name="col1">#787878</color>
+    <color name="col2">#C00000</color>
+    <color name="col3">#8B008B</color>
+    <color name="col4">#CD5C5C</color>
+    <color name="col5">#FFEFD5</color>
+    <color name="col6">#FFFF00</color>
+    <color name="col7">#00FF00</color>
+    <string name="item1">Item1</string>
+    
+    <string name="iMenuRefresh">Refresh</string>
+    <string name="iMenuAbout">About</string>
+    
+    
+
+</resources>
